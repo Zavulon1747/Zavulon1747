@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Zavulon1747/Zavulon1747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:godmode: **I'm Dimitriy, Java Developer**
 
-Here are some ideas to get you started:
+:star: That my strong skills: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java 8, 11, Spring 5, Spring Boot 2, SQL, Liquibase and more.**
+   
+
+:leaves: I’m interested in Spring Boot projects with microservices.
+
+
+:calling: Reach me at telegram **@PrivetDimas**
