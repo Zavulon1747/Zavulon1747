@@ -4,7 +4,9 @@
 
 ## :star: That my strong skills: 
 
-### - **Java 8, 11, Spring 5, Spring Boot 2, SQL, Liquibase and more**
+### - **Backend: Java 8-17, Spring 5, Spring Boot 2, Node.js**
+### - **Frontend: HTML, CSS, JavaScript ES6, React**
+### - **Other: MySQL, PostgreSQL, MongoDB, LiquiBase, Flyway, Docker and more**
    
 
 ## :leaves: I’m interested in 
