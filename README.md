@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-### :godmode: **I'm Dimitriy, Java Developer**
+### :godmode: **I'm Dmitry, Java Developer**
 
 ## :star: That my strong skills: 
 
